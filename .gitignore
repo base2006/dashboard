@@ -11,3 +11,5 @@ _ide_helper*.php
 /public/js
 /public/media
 /public/mix-manifest.json
+app/google-calendar/Dashboard-2604632ad64a.json
+.idea/
